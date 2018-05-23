@@ -1,1 +1,1 @@
-# Caesar-txt-encryption
+# This php script encrypt text in first txt file and write down encrypted text into second txt file.
